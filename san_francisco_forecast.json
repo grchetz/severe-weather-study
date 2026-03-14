@@ -1,0 +1,9 @@
+{
+  "forecast": [
+    {"period": "Tonight", "temperature": "52F", "wind": "7 mph W", "summary": "Partly cloudy, with a low around 52. West wind around 7 mph."},
+    {"period": "Saturday", "temperature": "74F", "wind": "6 to 9 mph WNW", "summary": "Sunny. High near 74, with temperatures falling to around 71 in the afternoon. West northwest wind 6 to 9 mph."},
+    {"period": "Saturday Night", "temperature": "54F", "wind": "3 to 9 mph WNW", "summary": "Mostly clear, with a low around 54. West northwest wind 3 to 9 mph."},
+    {"period": "Sunday", "temperature": "78F", "wind": "2 to 7 mph NNW", "summary": "Mostly sunny, with a high near 78. North northwest wind 2 to 7 mph."},
+    {"period": "Sunday Night", "temperature": "56F", "wind": "2 to 7 mph WNW", "summary": "Partly cloudy, with a low around 56. West northwest wind 2 to 7 mph."}
+  ]
+}
